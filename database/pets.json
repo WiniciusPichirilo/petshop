@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "nome": "Nino, Miojo, Lhama",
+    "especie": "Gato",
+    "raca": "Viralata",
+    "idade": 1,
+    "genero": "Fluido",
+    "servicos": ["Banho", "Massagem", "Tosa"],
+    "vacinado": false
+  },
+  {
+    "id": 2,
+    "nome": "Miojo",
+    "especie": "Cacatua",
+    "raca": "Viralata",
+    "idade": 5,
+    "genero": "Femea",
+    "servicos": ["Massagem"],
+    "vacinado": true
+  },
+  {
+    "id": 3,
+    "nome": "Lhama",
+    "especie": "Cobra",
+    "raca": "Python",
+    "idade": 12,
+    "genero": "Hermafrodita",
+    "servicos": ["Banho", "Manicure"],
+    "vacinado": false
+  }
+]
